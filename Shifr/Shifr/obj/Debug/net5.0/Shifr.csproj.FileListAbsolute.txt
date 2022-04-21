@@ -1,0 +1,16 @@
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.csproj.AssemblyReference.cache
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.AssemblyInfoInputs.cache
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.AssemblyInfo.cs
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.csproj.CoreCompileInputs.cache
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\bin\Debug\net5.0\Shifr.exe
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\bin\Debug\net5.0\Shifr.deps.json
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\bin\Debug\net5.0\Shifr.runtimeconfig.json
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\bin\Debug\net5.0\Shifr.runtimeconfig.dev.json
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\bin\Debug\net5.0\Shifr.dll
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\bin\Debug\net5.0\ref\Shifr.dll
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\bin\Debug\net5.0\Shifr.pdb
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.dll
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\ref\Shifr.dll
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.pdb
+C:\Users\zikot\Desktop\Study\Veta\Shifr\Shifr\obj\Debug\net5.0\Shifr.genruntimeconfig.cache
